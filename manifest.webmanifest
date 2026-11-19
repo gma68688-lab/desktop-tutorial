@@ -1,0 +1,20 @@
+{
+  "name": "痘痘日记",
+  "short_name": "痘痘日记",
+  "description": "记录每日皮肤状态、痘痘变化与护理情况的个人日记工具",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4f7f2",
+  "theme_color": "#e7f0e7",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
